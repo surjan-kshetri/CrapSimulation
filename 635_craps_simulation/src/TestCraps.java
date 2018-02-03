@@ -29,6 +29,8 @@ public class TestCraps
 	 * the game is a win, false otherwise.
 	 */
 	private CrapsGame game;
+	
+	//write a comment
 
 	/**
 	 * Field <code>numWins</code> tracks the total number of wins out of
