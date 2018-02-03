@@ -70,6 +70,8 @@ public class TestCraps
 		// thus affecting the outcome
 	
 	}
+	
+	//write a comment
 
 	/**
 	 * Instance method <code>public void play(int)</code> plays n games of
